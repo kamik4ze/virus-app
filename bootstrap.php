@@ -17,7 +17,7 @@ $config = Setup::createAnnotationMetadataConfiguration(array(__DIR__."/src"), $i
 
 
 $conn = array(
-    'dbname' => 'app_chat',
+    'dbname' => 'virus-app',
     'user' => 'root',
     'password' => '',
     'host' => 'localhost',
